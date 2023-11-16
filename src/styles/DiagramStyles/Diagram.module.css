@@ -1,0 +1,10 @@
+.diagram {
+    display: flex;
+    justify-content: space-around;
+    padding: 1rem;
+    background-color: #ffe223e2;
+    border-radius: 12px;
+    text-align: center;
+    height: 10rem;
+    margin-bottom: 2rem;
+}

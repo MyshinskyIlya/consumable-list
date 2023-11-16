@@ -1,0 +1,32 @@
+.new-cost {
+    background-color: rgba(127, 170, 248, 0.9);
+    padding: 1rem;
+    margin: 2rem auto;
+    margin-bottom: 1rem;
+    width: 70rem;
+    max-width: 95%;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 1px 7px rgba(0, 0, 0, 0.25);
+    color: rgb(255, 255, 255);
+}
+.new-cost button {
+    font: inherit;
+    cursor: pointer;
+    padding: 1rem 1rem;
+    border: 1px solid rgba(0, 128, 128, 0.365);
+    box-shadow: 0 1px 1px rgba(255, 255, 255, 0.386);
+    background-color: rgba(135, 191, 193, 0.927);
+    border-radius: 10px;
+    color: white;
+    margin-right: 0.6rem;
+    margin-top: 0.8rem;
+    min-width: 8.5rem;
+    font-size: 1.24rem;
+}
+
+.new-cost button:hover,
+.new-cost button:active {
+    background-color: rgba(0, 221, 221, 0.684);
+    box-shadow: 0 1px 4px rgba(255, 255, 255, 0.361);
+}

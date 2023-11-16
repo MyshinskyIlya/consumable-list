@@ -1,0 +1,29 @@
+.cost-date {
+    display: flex;
+    flex-direction: column;
+    width: 5.5rem;
+    height: 5.5rem;
+    border: 1px solid rgba(251, 245, 240, 0.768);
+    background-color: rgb(99, 23, 129);
+    border-radius: 12px;
+    align-items: center;
+    justify-content: center;
+    color: rgb(255, 240, 221);
+    box-shadow: 0 6px 5px rgba(0, 0, 0, 0.25);
+}
+
+.const-date__month {
+    font-size: 0.85rem;
+    font-weight: bold;
+}
+
+.const-date__year {
+    margin-top: 1px;
+    font-size: 0.85rem;
+}
+
+.const-date__day {
+    margin-top: 3px;
+    font-size: 1.5rem;
+    font-weight: bold;
+}

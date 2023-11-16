@@ -1,0 +1,13 @@
+.total {
+    display: flex;
+    background-color: rgba(173, 0, 208, 0.625);
+    box-shadow: 0 1px 5px rgba(255, 255, 255, 0.25);
+    height: 2rem;
+    padding: 1rem 2rem;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.4rem;
+    align-items: center;
+    justify-content: space-between;
+    color: whitesmoke;
+}
